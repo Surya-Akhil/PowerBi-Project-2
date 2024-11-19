@@ -5,7 +5,7 @@ The objective of this project is to develop a comprehensive Power BI dashboard f
 - <a href="https://github.com/Surya-Akhil/PowerBi-Project-2/blob/main/hotel%20data.csv">Dataset</a>
 
 ## KPI'S and Visualizations:
-1. ## Occupancy Rate Analysis:
+1. ### Occupancy Rate Analysis:
    
 •	Calculate and visualize the occupancy rate trend by week, month, and quarter.
 
