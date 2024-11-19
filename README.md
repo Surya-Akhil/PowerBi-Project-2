@@ -6,7 +6,9 @@ The objective of this project is to develop a comprehensive Power BI dashboard f
 
 ## KPI'S and Visualizations:
 1. ## Occupancy Rate Analysis:
+   
 •	Calculate and visualize the occupancy rate trend by week, month, and quarter.
+
 •	Provide insights into occupancy fluctuations and identify patterns over time.
 2. ## Total Occupied Rooms Trend:
 •	Display the trend of total occupied rooms over weeks, months, and quarters.
