@@ -10,7 +10,9 @@ The objective of this project is to develop a comprehensive Power BI dashboard f
 •	Calculate and visualize the occupancy rate trend by week, month, and quarter.
 
 •	Provide insights into occupancy fluctuations and identify patterns over time.
+
 2. ## Total Occupied Rooms Trend:
+   
 •	Display the trend of total occupied rooms over weeks, months, and quarters.
 •	Analyze the changes in room occupancy to make informed decisions regarding resource allocation.
 3. ## Average Daily Rate (ADR) Analysis:
