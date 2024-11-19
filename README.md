@@ -76,4 +76,4 @@ The objective of this project is to develop a comprehensive Power BI dashboard f
 •	Shade bars below average in grey and bars above average in dark to highlight occupancy performance.
 
 ## DASHBOARD LINK
--<a href="https://github.com/Surya-Akhil/PowerBi-Project-2/blob/main/Hotel%20Report.pbix">View Dashboard</a>
+<a href="https://github.com/Surya-Akhil/PowerBi-Project-2/blob/main/Hotel%20Report.pbix">View Dashboard</a>
